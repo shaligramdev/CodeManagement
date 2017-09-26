@@ -5,6 +5,12 @@ var path = "/tmp/nodegit-clone-demo";
 
 fse.remove(path).then(function() {
   var entry;
+  
+  
+  ///testing
+  
+  
+  
 
   nodegit.Clone(
     "https://github.com/nodegit/nodegit.git",
