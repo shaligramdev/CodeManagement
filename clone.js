@@ -9,7 +9,7 @@ fse.remove(path).then(function() {
   
   ///testing
   
-  
+  ///testing 1  
   
 
   nodegit.Clone(
@@ -44,3 +44,8 @@ fse.remove(path).then(function() {
     console.log("...");
   });
 });
+
+  ///testing 3
+  
+  ///testing 4  
+ 
