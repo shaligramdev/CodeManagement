@@ -4,6 +4,10 @@ var getMostRecentCommit = function(repository) {
   return repository.getBranchCommit("master");
 };
 
+
+
+
+
 var getCommitMessage = function(commit) {
   return commit.message();
 };
