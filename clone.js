@@ -11,6 +11,9 @@ fse.remove(path).then(function() {
   
   ///testing 1  
   
+    
+  ///testing 2  
+  
 
   nodegit.Clone(
     "https://github.com/nodegit/nodegit.git",
